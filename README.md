@@ -1,4 +1,4 @@
-## Learning with Differentially Private (Sliced) Wasserstein Gradients
+## Learning with Differentially Private Sliced Wasserstein Gradients
 
 This repository contains code to reproduce the experiments from the article *Learning with Differentially Private Sliced Wasserstein Gradients*.
 
